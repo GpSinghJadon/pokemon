@@ -27,7 +27,7 @@ note: To clean an existing setup use: `make clean` comand.
 Go to the below URL to access the application.
 http://0.0.0.0:5000/<api-endpoint>
 
-Note: incase the application is not available you can check the IP of your application with the below command.
+Note: in case the application is not available you can check the IP of your application with the below command.
 
 `make inspect`
 
